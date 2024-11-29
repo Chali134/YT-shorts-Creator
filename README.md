@@ -66,17 +66,6 @@ A Python-based application with a graphical user interface (GUI) built using Pyg
 
 ---
 
-## Screenshots
-
-### Main Screen
-- **Browse Video** button.
-- **Clip Duration Slider** for setting clip lengths.
-- **Create Clips** button.
-
-### Progress Window
-- Shows progress bar and percentage completion during processing.
-
----
 
 ## Requirements
 
